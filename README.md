@@ -1,6 +1,7 @@
 # Robot Leg Design and Optimization with PSO algorithm
 
 Creating the robot leg, optimizing with PSO algorithm for 4bar mechanism serves as power transmitter.
+This is a full-package developed for quadruped robots. The software is designed for (local) ordinary tasks with robots which are equipped with a mini processor.
 
 <p align="center">
   <img src="https://github.com/Artinmi/Robot-Leg-4bar-PSO/blob/master/docs/leg.gif" width="45%" alt="Leg"/>
@@ -80,7 +81,15 @@ The robot leg is controlled using an Arduino connected to servos. The leg_moveme
   <img src="https://github.com/Artinmi/Robot-Leg-4bar-PSO/blob/master/docs/Circuit.jpg" width="45%" alt="Leg"/>
 </p>
 
+## Installation
+### Dependencies
 
+This software is built on Python, which needs some libraries to be installed first, the Robot-Leg-4bar-PSO depends on following libraries:
+
+- [numpy](https://numpy.org/install/) 
+- [matplotlib](https://matplotlib.org/stable/install/index.html) 
+- [pyswarm](https://pyswarms.readthedocs.io/en/latest/installation.html) 
+- [joblib](https://joblib.readthedocs.io/en/latest/installing.html) 
 ### Installation
 1. Clone this repository:
 
