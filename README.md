@@ -68,7 +68,7 @@ The PSO algorithm was implemented in Python to optimize the leg mechanism's leng
 2. Run the PSO algorithm: Using pyswarm, the PSO algorithm adjusts the lengths to minimize the objective function.
 3. Visualize results: The final optimized leg is visualized in Python.
 
-For more detailed explanations and the full code, refer to the .ipynb file.
+For more detailed explanations and the full code, refer to the ```.ipynb``` file.
 
 ## Arduino Control
 The robot leg is controlled using an Arduino connected to servos. The leg_movement.ino file contains the code to control the leg's movement. The setup includes:
@@ -83,13 +83,15 @@ The robot leg is controlled using an Arduino connected to servos. The leg_moveme
 
 ### Installation
 1. Clone this repository:
-       ``` git clone https://github.com/Artinmi/Robot-Leg-4bar-PSO.git  ```
+
+        git clone https://github.com/Artinmi/Robot-Leg-4bar-PSO.git
     
 3. Install the required Python packages:
+
          ``` pip install pyswarm ```
     
 
-4. Upload the Arduino code:
+5. Upload the Arduino code:
    - Open leg_movement.ino in the Arduino IDE.
    - Connect your Arduino board and upload the code.
 
@@ -99,7 +101,7 @@ The robot leg is controlled using an Arduino connected to servos. The leg_moveme
 
 ## Usage
 - Optimization: Run the PSO optimization script in Python to find the best dimensions for the leg.
-        python optimize_leg.py
+        python  ```optimize_leg.py```
     
 - Control: Use the Arduino joystick to manually control the leg or run inverse kinematics for automated movement.
 
