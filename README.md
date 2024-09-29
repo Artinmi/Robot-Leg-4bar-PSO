@@ -97,7 +97,7 @@ This software is built on Python, which needs some libraries to be installed fir
     
 3. Install the required Python packages:
 
-         ``` pip install pyswarm ```
+         pip install pyswarm
     
 
 5. Upload the Arduino code:
