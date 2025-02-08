@@ -20,7 +20,7 @@ This project involves the design, simulation, and optimization of a robotic leg,
 7. [Arduino Control](#arduino-control)
 8. [Installation](#installation)
 9. [Usage](#usage)
-
+10. [Credits](#credits)
 ## Introduction
 The goal of this project was to design a functional robotic leg that could be optimized using the Particle Swarm Optimization (PSO) algorithm. The leg mechanism is a four-bar linkage system, designed for flexibility and robustness in movement. 
 
