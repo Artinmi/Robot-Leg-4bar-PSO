@@ -116,7 +116,7 @@ This software is built on Python, which needs some libraries to be installed fir
 
 ## Credits
 This project was developed by:
-- **Taha Faghani** & **Artin Mokhtariha** – Design, Optimization, Programming(Python and Arduino) ,and setup installation.
+- **Artin Mokhtariha** & **Taha Faghani** – Design, Optimization, Programming(Python and Arduino) ,and setup installation.
 - **Negar Asadi** – 3D Printing and Assembly
 
 
