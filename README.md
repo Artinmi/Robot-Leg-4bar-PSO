@@ -115,7 +115,10 @@ This software is built on Python, which needs some libraries to be installed fir
 - Control: Use the Arduino joystick to manually control the leg or run inverse kinematics for automated movement.
 
 ## Credits
-This project was developed for mechanism design project at IUST
+This project was developed by:
+- **Taha Faghani** & **Artin Mokhtariha** – Design, Optimization, Programming(Python and Arduino) ,and setup installation.
+- **Negar Asadi** – 3D Printing and Assembly
+
 
 ### Contributions
 Contributions are always welcome! If you'd like to improve the project or add new features:
