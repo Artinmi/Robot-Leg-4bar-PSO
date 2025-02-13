@@ -8,7 +8,7 @@ This is a full-package developed for quadruped robots. The software is designed 
 </p>
 
 
-This project involves the design, simulation, and optimization of a robotic leg, using SolidWorks for mechanical design and the Particle Swarm Optimization (PSO) algorithm for parameter optimization. The robot leg was 3D printed, assembled, and controlled via an Arduino board for both inverse kinematics and manual control. The project uses Python's pyswarm library for PSO and Arduino for controlling servos.
+This project involves the design, simulation, and optimization of a robotic leg, using SolidWorks for mechanical design and the Particle Swarm Optimization (PSO) algorithm for parameter optimization. The robot leg was 3D printed, assembled, and controlled via an Arduino board for both inverse kinematics and manual control.  The project uses Python's pyswarm library for PSO and Arduino for controlling servos.
 
 ## Table of Contents
 1. [Introduction](#introduction)
