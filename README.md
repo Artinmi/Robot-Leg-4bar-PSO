@@ -1,7 +1,7 @@
 # Robot Leg Design and Optimization with PSO algorithm
 Creating the robot leg, optimizing with PSO algorithm for 4bar mechanism serves as power transmitter.
 This is a full-package developed for quadruped robots. The software is designed for (local) ordinary tasks with robots which are equipped with a mini processor.
-12
+2
 
 <p align="center">
   <img src="https://github.com/Artinmi/Robot-Leg-4bar-PSO/blob/master/docs/leg.gif" width="50%" alt="Leg"/>
